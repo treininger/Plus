@@ -1,1 +1,6 @@
 body {background-image: url("../img/tweed.png")}
+
+h1 { 
+    font-size: 70px;
+    color: cornflowerblue
+}
