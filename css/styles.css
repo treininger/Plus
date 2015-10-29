@@ -2,5 +2,42 @@ body {background-image: url("../img/tweed.png")}
 
 h1 { 
     font-size: 70px;
-    color: cornflowerblue
+    color: cornflowerblue;
+    font-family: 'Cuprum', sans-serif;
+}
+
+img {
+    border-radius: 30%;
+    border-color: bisque;
+    height: 700px;
+}
+
+nav {
+ display: inline-block;
+}
+
+li{
+    display: inline-block;
+}
+
+a,
+a:visited {
+    color: pink;
+    text-decoration: none;
+    font-family: 'Cuprum', sans-serif;
+    font-size: 30px;
+    
+}
+
+a:hover {
+color: white;
+}
+
+p {
+    font-family: 'Cuprum', sans-serif;
+    color: white;
+}
+
+section {
+    background: slategrey;
 }
