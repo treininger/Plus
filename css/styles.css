@@ -7,9 +7,9 @@ h1 {
 }
 
 img {
-    border-radius: 30%;
     border-color: bisque;
-    height: 700px;
+    height: 300px;
+    width: 50%;
 }
 
 nav {
